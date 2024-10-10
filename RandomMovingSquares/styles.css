@@ -1,0 +1,22 @@
+.createObject {
+    width: 200px;
+    height: 25px;
+}
+
+.container{
+    margin: auto;
+    display: block;
+    margin-top: 350px;
+    width: 520px;
+    height: 520px;
+    overflow-wrap: anywhere;
+}
+
+.square {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    float: left;
+    margin-left: 10px;
+    margin-top: 10px; 
+}
